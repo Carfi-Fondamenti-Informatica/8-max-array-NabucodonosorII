@@ -1,4 +1,4 @@
 #ifndef UNTITLED8_LIB_H
 #define UNTITLED8_LIB_H
-int massimo(int elenco[],int dim);
+int massimo(float elenco[],int dim);
 #endif
