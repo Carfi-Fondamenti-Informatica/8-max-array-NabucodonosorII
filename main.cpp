@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     int dim;
     cin >> dim;
-    int elenco[dim];
+    float elenco[dim];
     int n;
     for (n=0;n<dim;n++){
         cin >> elenco[n];
