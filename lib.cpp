@@ -1,5 +1,5 @@
 #include "lib.h"
-int massimo(float elenco[],int dim){
+float massimo(float elenco[],int dim){
     float max;
     max =elenco[0];
     for (int i=1; i< dim ; i++) {
